@@ -1,4 +1,4 @@
-# swwat-templates
+# GIS Datentemplate Digitale Gefahrenzonenplanung
 
 Dieses repository enthält Datentemplates (QGIS und ArcGIS), deren zugrundelegende Datenstruktur den Vorgaben der __[digitalen Datenanforderungen](https://www.bmlrt.gv.at/wasser/schutz-vor-hochwasser/richtlinien-leitfaeden/technische-richtlinien-fuer-gefahrenzonenplanung.html)__ eines Gefahrenzonenplanes oder einer Abflussuntersuchung entsprechen und zur Übernahme in die Hochwasserfachdatenbank zur Verfügung gestellt werden. 
 
