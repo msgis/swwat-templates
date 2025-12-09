@@ -8,18 +8,12 @@ Das jeweils aktuellste Release bzw. aktuellste Schnittstellenbeschreibung kann f
 
 
 
-<table class="module-table">
-  <colgroup>
-    <!-- Set column widths here -->
-    <col style="width: 25%;">
-    <col style="width: 15%;">
-    <col style="width: 50%;">
-  </colgroup>
+<table style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr>
-      <th>SwwAT-WEB Modul</th>
-      <th>Aktuelle Release</th>
-      <th>Aktuelle Schnittstellenbeschreibung</th>
+      <th align="left";">SwwAT-WEB Modul</th>
+      <th align="left";">Aktuelle Release</th>
+      <th align="left";">Aktuelle Schnittstellenbeschreibung</th>
     </tr>
   </thead>
   <tbody>
@@ -30,18 +24,3 @@ Das jeweils aktuellste Release bzw. aktuellste Schnittstellenbeschreibung kann f
     </tr>
   </tbody>
 </table>
-
-<style>
-  .module-table {
-    border-collapse: collapse;      /* ensures single lines, not double */
-    width: 100%;                    /* optional: table takes full width */
-  }
-
-  .module-table th,
-  .module-table td {
-    border: 1px solid #000;         /* vertical + horizontal lines */
-    padding: 4px 8px;               /* some spacing inside cells */
-    text-align: left;
-  }
-</style>
-
