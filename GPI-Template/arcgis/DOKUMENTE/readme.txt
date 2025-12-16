@@ -1,0 +1,1 @@
+Hier werden DOKUMENTE abgelegt und über das Feld DOK_PFAD im Layer TBPRJ verlinkt
