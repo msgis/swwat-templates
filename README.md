@@ -22,5 +22,11 @@ Das jeweils aktuellste Release bzw. aktuellste Schnittstellenbeschreibung kann f
       <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.1">v3.5</a></td>
       <td><a href="https://github.com/msgis/swwat-templates/blob/master/GZP-Template/Schnittstellenbeschreibung%20-%20SwwAT-Web%20Modul%20Gefahrenzonenplan%20-%20v3.5.pdf">SwwAT-Web Modul Gefahrenzonenplan - v3.5.pdf</td>
     </tr>
+    <tr>
+      <td>GPI</td>
+      <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.2">v1.0</a></td>
+      <td><a href="https://github.com/msgis/swwat-templates/blob/master/GPI-Template/Schnittstellenbeschreibung%20-%20SwwAT-Web%20Modul%20Gew%C3%A4sserpflege-%20u.%20Instandhaltungskonzepte.pdf">SwwAT-Web Modul Gewässerpflege- u. Instandhaltungskonzepte - v1.0.pdf
+</td>
+    </tr>
   </tbody>
 </table>
