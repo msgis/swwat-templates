@@ -24,8 +24,8 @@ Das jeweils aktuellste Release bzw. aktuellste Schnittstellenbeschreibung kann f
     </tr>
     <tr>
       <td>GPI</td>
-      <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.2">v1.0</a></td>
-      <td><a href="https://github.com/msgis/swwat-templates/blob/master/GPI-Template/Schnittstellenbeschreibung%20-%20SwwAT-Web%20Modul%20Gew%C3%A4sserpflege-%20u.%20Instandhaltungskonzepte.pdf">SwwAT-Web Modul Gewässerpflege- u. Instandhaltungskonzepte - v1.0.pdf
+      <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.3">v1.1</a></td>
+      <td><a href="https://github.com/msgis/swwat-templates/blob/master/GPI-Template/Schnittstellenbeschreibung%20-%20SwwAT-Web%20Modul%20Gew%C3%A4sserpflege-%20u.%20Instandhaltungskonzepte.pdf">SwwAT-Web Modul Gewässerpflege- u. Instandhaltungskonzepte - v1.1.pdf
 </td>
     </tr>
   </tbody>
