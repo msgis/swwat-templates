@@ -19,7 +19,7 @@ Das jeweils aktuellste Release bzw. aktuellste Schnittstellenbeschreibung kann f
   <tbody>
     <tr>
       <td>GZP | ABU</td>
-      <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.4">v3.6</a></td>
+      <td><a href="https://github.com/msgis/swwat-templates/releases/tag/v1.5">v3.6.1</a></td>
       <td><a href="https://github.com/msgis/swwat-templates/blob/master/GZP-Template/Schnittstellenbeschreibung%20-%20SwwAT-Web%20Modul%20Gefahrenzonenplan.pdf">SwwAT-Web Modul Gefahrenzonenplan - v3.6.pdf</td>
     </tr>
     <tr>
